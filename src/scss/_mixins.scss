@@ -1,0 +1,41 @@
+@charset "utf-8";
+
+// ******************
+// ***   Layout   ***
+// ******************
+
+@mixin bp-xlarge {
+  @media only screen and (min-width: 1920px) {
+    @content;
+  }
+}
+
+@mixin bp-large {
+  @media only screen and (min-width: 1200px) {
+    @content;
+  }
+}
+
+@mixin bp-medium {
+  @media only screen and (min-width: 768px) {
+    @content;
+  }
+}
+
+@mixin bp-small {
+  @media only screen and (min-width: 480px) {
+    @content;
+  }
+}
+
+// ***********************
+// ***   Device Hack   ***
+// ***********************
+
+@mixin hover-supported {
+  @media not all and (pointer: coarse) {
+    &:hover {
+      @content;
+    }
+  }
+}
