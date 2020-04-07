@@ -1,15 +1,3 @@
-# from datapackage import Package
-
-# package = Package('https://datahub.io/core/covid-19/datapackage.json')
-
-# # print list of all resources:
-# print(package.resource_names)
-
-# # print processed tabular data (if exists any)
-# for resource in list:
-#     if resource.descriptor['datahub']['type'] == 'derived/csv':
-#         print(resource.read())
-
 import csv
 import requests
 import json
@@ -24,11 +12,24 @@ with requests.Session() as s:
     my_list = list(cr)
     # for row in my_list:
     #     print(row)
-    print(my_list)
+    # print(my_list)
 
 def write_json(filepath, data):
     with open(filepath, 'w', newline='', encoding='utf-8') as f:
         json.dump(data, f, indent=2)
 
-filepath = 'world_aggregated.json'
-write_json(filepath, my_list)
+
+def file_path(filename):
+    new_filepath = f'./src/data/{filename}.json'
+    return new_filepath
+
+
+def main():
+    filename = 'world_aggregated'
+    write_json(file_path(filename), my_list)
+
+
+
+if __name__ == '__main__':
+    main()
+
