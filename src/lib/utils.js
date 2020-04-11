@@ -15,6 +15,16 @@ const stringToNumber = (data, fields) => {
   return result;
 };
 
-const dataFactory = { stringToNumber };
+const formatLabel = (str) => {
+  const result = str.replace(/_/g, " ").replace(/^./, str[0].toUpperCase());
+  return result;
+};
+
+const locale = navigator && navigator.language ? navigator.language : "en-US";
+const numberFormat = (options) => {
+  return new Intl.NumberFormat(locale, options);
+};
+
+const dataFactory = { stringToNumber, formatLabel, numberFormat };
 
 export { dataFactory };

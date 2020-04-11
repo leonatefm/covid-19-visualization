@@ -6,6 +6,7 @@ import { Layout } from "antd";
 import dataset from "../../data/world_aggregated.json";
 
 const { Header, Footer, Content } = Layout;
+const data = dataset.filter((data) => data.type !== "increase_rate");
 
 class App extends React.PureComponent {
   render() {
@@ -26,11 +27,40 @@ class App extends React.PureComponent {
                   visible: true,
                   text: "This chart visualizes the trend of confirmed, recovered and death cases worldwide.",
                 },
-                data: dataFactory.stringToNumber(dataset, ["confirmed", "recovered", "deaths", "increase_rate"]),
+                data: dataFactory.stringToNumber(data, ["value"]),
                 xField: "date",
-                yField: "confirmed",
-                point: {
-                  visible: true,
+                xAxis: {
+                  type: "dateTime",
+                },
+                yField: "value",
+                yAxis: {
+                  tickInterval: 200000,
+                  label: {
+                    formatter: (label, data) => {
+                      return dataFactory.numberFormat({ notation: "compact", compactDisplay: "short" }).format(data.id);
+                    },
+                  },
+                },
+                seriesField: "type",
+                meta: {
+                  type: {
+                    formatter: (v) => {
+                      return dataFactory.formatLabel(v);
+                    },
+                  },
+                  value: {
+                    formatter: (v) => {
+                      return dataFactory.numberFormat().format(v);
+                    },
+                  },
+                },
+                legend: {
+                  position: "right-top",
+                },
+                animation: {
+                  appear: {
+                    duration: 3000,
+                  },
                 },
               }}
             />
