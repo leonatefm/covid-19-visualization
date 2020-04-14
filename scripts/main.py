@@ -2,6 +2,7 @@ import json
 from datapackage import Package
 from pathlib import Path
 
+
 def get_package(package_name):
     package = Package('https://datahub.io/core/covid-19/datapackage.json')
     package = package.get_resource(package_name);
@@ -36,15 +37,14 @@ def file_path(filename):
     return filepath
 
 
-
 def main():
-    # package = Package('https://datahub.io/core/covid-19/datapackage.json')
+    package = Package('https://datahub.io/core/covid-19/datapackage.json')
     # print list of all resources:
     # print(package.resource_names)
+    # print(json.dumps(package.descriptor, indent=2))
   
     package_name = 'worldwide-aggregated_csv'
     worldwide_aggregated = get_package(package_name)
-    # print(worldwide_aggregated)
     
     format_worldwide_data = format_data(worldwide_aggregated)
    
