@@ -2,1481 +2,1231 @@
   {
     "date": "2020-01-22",
     "type": "confirmed",
-    "value": "555"
+    "value": 555
   },
   {
     "date": "2020-01-22",
     "type": "recovered",
-    "value": "28"
+    "value": 28
   },
   {
     "date": "2020-01-22",
     "type": "deaths",
-    "value": "17"
-  },
-  {
-    "date": "2020-01-22",
-    "type": "increase_rate",
-    "value": ""
+    "value": 17
   },
   {
     "date": "2020-01-23",
     "type": "confirmed",
-    "value": "654"
+    "value": 654
   },
   {
     "date": "2020-01-23",
     "type": "recovered",
-    "value": "30"
+    "value": 30
   },
   {
     "date": "2020-01-23",
     "type": "deaths",
-    "value": "18"
-  },
-  {
-    "date": "2020-01-23",
-    "type": "increase_rate",
-    "value": "17.83783783783784"
+    "value": 18
   },
   {
     "date": "2020-01-24",
     "type": "confirmed",
-    "value": "941"
+    "value": 941
   },
   {
     "date": "2020-01-24",
     "type": "recovered",
-    "value": "36"
+    "value": 36
   },
   {
     "date": "2020-01-24",
     "type": "deaths",
-    "value": "26"
-  },
-  {
-    "date": "2020-01-24",
-    "type": "increase_rate",
-    "value": "43.883792048929664"
+    "value": 26
   },
   {
     "date": "2020-01-25",
     "type": "confirmed",
-    "value": "1434"
+    "value": 1434
   },
   {
     "date": "2020-01-25",
     "type": "recovered",
-    "value": "39"
+    "value": 39
   },
   {
     "date": "2020-01-25",
     "type": "deaths",
-    "value": "42"
-  },
-  {
-    "date": "2020-01-25",
-    "type": "increase_rate",
-    "value": "52.39107332624867"
+    "value": 42
   },
   {
     "date": "2020-01-26",
     "type": "confirmed",
-    "value": "2118"
+    "value": 2118
   },
   {
     "date": "2020-01-26",
     "type": "recovered",
-    "value": "52"
+    "value": 52
   },
   {
     "date": "2020-01-26",
     "type": "deaths",
-    "value": "56"
-  },
-  {
-    "date": "2020-01-26",
-    "type": "increase_rate",
-    "value": "47.69874476987448"
+    "value": 56
   },
   {
     "date": "2020-01-27",
     "type": "confirmed",
-    "value": "2927"
+    "value": 2927
   },
   {
     "date": "2020-01-27",
     "type": "recovered",
-    "value": "61"
+    "value": 61
   },
   {
     "date": "2020-01-27",
     "type": "deaths",
-    "value": "82"
-  },
-  {
-    "date": "2020-01-27",
-    "type": "increase_rate",
-    "value": "38.196411709159584"
+    "value": 82
   },
   {
     "date": "2020-01-28",
     "type": "confirmed",
-    "value": "5578"
+    "value": 5578
   },
   {
     "date": "2020-01-28",
     "type": "recovered",
-    "value": "107"
+    "value": 107
   },
   {
     "date": "2020-01-28",
     "type": "deaths",
-    "value": "131"
-  },
-  {
-    "date": "2020-01-28",
-    "type": "increase_rate",
-    "value": "90.57055005124701"
+    "value": 131
   },
   {
     "date": "2020-01-29",
     "type": "confirmed",
-    "value": "6166"
+    "value": 6166
   },
   {
     "date": "2020-01-29",
     "type": "recovered",
-    "value": "126"
+    "value": 126
   },
   {
     "date": "2020-01-29",
     "type": "deaths",
-    "value": "133"
-  },
-  {
-    "date": "2020-01-29",
-    "type": "increase_rate",
-    "value": "10.541412692721405"
+    "value": 133
   },
   {
     "date": "2020-01-30",
     "type": "confirmed",
-    "value": "8234"
+    "value": 8234
   },
   {
     "date": "2020-01-30",
     "type": "recovered",
-    "value": "143"
+    "value": 143
   },
   {
     "date": "2020-01-30",
     "type": "deaths",
-    "value": "171"
-  },
-  {
-    "date": "2020-01-30",
-    "type": "increase_rate",
-    "value": "33.53876094712942"
+    "value": 171
   },
   {
     "date": "2020-01-31",
     "type": "confirmed",
-    "value": "9927"
+    "value": 9927
   },
   {
     "date": "2020-01-31",
     "type": "recovered",
-    "value": "222"
+    "value": 222
   },
   {
     "date": "2020-01-31",
     "type": "deaths",
-    "value": "213"
-  },
-  {
-    "date": "2020-01-31",
-    "type": "increase_rate",
-    "value": "20.5610881709983"
+    "value": 213
   },
   {
     "date": "2020-02-01",
     "type": "confirmed",
-    "value": "12038"
+    "value": 12038
   },
   {
     "date": "2020-02-01",
     "type": "recovered",
-    "value": "284"
+    "value": 284
   },
   {
     "date": "2020-02-01",
     "type": "deaths",
-    "value": "259"
-  },
-  {
-    "date": "2020-02-01",
-    "type": "increase_rate",
-    "value": "21.2652362244384"
+    "value": 259
   },
   {
     "date": "2020-02-02",
     "type": "confirmed",
-    "value": "16787"
+    "value": 16787
   },
   {
     "date": "2020-02-02",
     "type": "recovered",
-    "value": "472"
+    "value": 472
   },
   {
     "date": "2020-02-02",
     "type": "deaths",
-    "value": "362"
-  },
-  {
-    "date": "2020-02-02",
-    "type": "increase_rate",
-    "value": "39.45007476324971"
+    "value": 362
   },
   {
     "date": "2020-02-03",
     "type": "confirmed",
-    "value": "19881"
+    "value": 19881
   },
   {
     "date": "2020-02-03",
     "type": "recovered",
-    "value": "623"
+    "value": 623
   },
   {
     "date": "2020-02-03",
     "type": "deaths",
-    "value": "426"
-  },
-  {
-    "date": "2020-02-03",
-    "type": "increase_rate",
-    "value": "18.430928694823375"
+    "value": 426
   },
   {
     "date": "2020-02-04",
     "type": "confirmed",
-    "value": "23892"
+    "value": 23892
   },
   {
     "date": "2020-02-04",
     "type": "recovered",
-    "value": "852"
+    "value": 852
   },
   {
     "date": "2020-02-04",
     "type": "deaths",
-    "value": "492"
-  },
-  {
-    "date": "2020-02-04",
-    "type": "increase_rate",
-    "value": "20.175041496906594"
+    "value": 492
   },
   {
     "date": "2020-02-05",
     "type": "confirmed",
-    "value": "27635"
+    "value": 27635
   },
   {
     "date": "2020-02-05",
     "type": "recovered",
-    "value": "1124"
+    "value": 1124
   },
   {
     "date": "2020-02-05",
     "type": "deaths",
-    "value": "564"
-  },
-  {
-    "date": "2020-02-05",
-    "type": "increase_rate",
-    "value": "15.66633182655282"
+    "value": 564
   },
   {
     "date": "2020-02-06",
     "type": "confirmed",
-    "value": "30794"
+    "value": 30794
   },
   {
     "date": "2020-02-06",
     "type": "recovered",
-    "value": "1487"
+    "value": 1487
   },
   {
     "date": "2020-02-06",
     "type": "deaths",
-    "value": "634"
-  },
-  {
-    "date": "2020-02-06",
-    "type": "increase_rate",
-    "value": "11.431156142572824"
+    "value": 634
   },
   {
     "date": "2020-02-07",
     "type": "confirmed",
-    "value": "34391"
+    "value": 34391
   },
   {
     "date": "2020-02-07",
     "type": "recovered",
-    "value": "2011"
+    "value": 2011
   },
   {
     "date": "2020-02-07",
     "type": "deaths",
-    "value": "719"
-  },
-  {
-    "date": "2020-02-07",
-    "type": "increase_rate",
-    "value": "11.680846918230824"
+    "value": 719
   },
   {
     "date": "2020-02-08",
     "type": "confirmed",
-    "value": "37120"
+    "value": 37120
   },
   {
     "date": "2020-02-08",
     "type": "recovered",
-    "value": "2616"
+    "value": 2616
   },
   {
     "date": "2020-02-08",
     "type": "deaths",
-    "value": "806"
-  },
-  {
-    "date": "2020-02-08",
-    "type": "increase_rate",
-    "value": "7.935215608734844"
+    "value": 806
   },
   {
     "date": "2020-02-09",
     "type": "confirmed",
-    "value": "40150"
+    "value": 40150
   },
   {
     "date": "2020-02-09",
     "type": "recovered",
-    "value": "3244"
+    "value": 3244
   },
   {
     "date": "2020-02-09",
     "type": "deaths",
-    "value": "906"
-  },
-  {
-    "date": "2020-02-09",
-    "type": "increase_rate",
-    "value": "8.162715517241379"
+    "value": 906
   },
   {
     "date": "2020-02-10",
     "type": "confirmed",
-    "value": "42762"
+    "value": 42762
   },
   {
     "date": "2020-02-10",
     "type": "recovered",
-    "value": "3946"
+    "value": 3946
   },
   {
     "date": "2020-02-10",
     "type": "deaths",
-    "value": "1013"
-  },
-  {
-    "date": "2020-02-10",
-    "type": "increase_rate",
-    "value": "6.505603985056039"
+    "value": 1013
   },
   {
     "date": "2020-02-11",
     "type": "confirmed",
-    "value": "44802"
+    "value": 44802
   },
   {
     "date": "2020-02-11",
     "type": "recovered",
-    "value": "4683"
+    "value": 4683
   },
   {
     "date": "2020-02-11",
     "type": "deaths",
-    "value": "1113"
-  },
-  {
-    "date": "2020-02-11",
-    "type": "increase_rate",
-    "value": "4.770590711379262"
+    "value": 1113
   },
   {
     "date": "2020-02-12",
     "type": "confirmed",
-    "value": "45221"
+    "value": 45221
   },
   {
     "date": "2020-02-12",
     "type": "recovered",
-    "value": "5150"
+    "value": 5150
   },
   {
     "date": "2020-02-12",
     "type": "deaths",
-    "value": "1118"
-  },
-  {
-    "date": "2020-02-12",
-    "type": "increase_rate",
-    "value": "0.9352261059774116"
+    "value": 1118
   },
   {
     "date": "2020-02-13",
     "type": "confirmed",
-    "value": "60368"
+    "value": 60368
   },
   {
     "date": "2020-02-13",
     "type": "recovered",
-    "value": "6295"
+    "value": 6295
   },
   {
     "date": "2020-02-13",
     "type": "deaths",
-    "value": "1371"
-  },
-  {
-    "date": "2020-02-13",
-    "type": "increase_rate",
-    "value": "33.49549987837509"
+    "value": 1371
   },
   {
     "date": "2020-02-14",
     "type": "confirmed",
-    "value": "66885"
+    "value": 66885
   },
   {
     "date": "2020-02-14",
     "type": "recovered",
-    "value": "8058"
+    "value": 8058
   },
   {
     "date": "2020-02-14",
     "type": "deaths",
-    "value": "1523"
-  },
-  {
-    "date": "2020-02-14",
-    "type": "increase_rate",
-    "value": "10.795454545454545"
+    "value": 1523
   },
   {
     "date": "2020-02-15",
     "type": "confirmed",
-    "value": "69030"
+    "value": 69030
   },
   {
     "date": "2020-02-15",
     "type": "recovered",
-    "value": "9395"
+    "value": 9395
   },
   {
     "date": "2020-02-15",
     "type": "deaths",
-    "value": "1666"
-  },
-  {
-    "date": "2020-02-15",
-    "type": "increase_rate",
-    "value": "3.206997084548105"
+    "value": 1666
   },
   {
     "date": "2020-02-16",
     "type": "confirmed",
-    "value": "71224"
+    "value": 71224
   },
   {
     "date": "2020-02-16",
     "type": "recovered",
-    "value": "10865"
+    "value": 10865
   },
   {
     "date": "2020-02-16",
     "type": "deaths",
-    "value": "1770"
-  },
-  {
-    "date": "2020-02-16",
-    "type": "increase_rate",
-    "value": "3.1783282630740253"
+    "value": 1770
   },
   {
     "date": "2020-02-17",
     "type": "confirmed",
-    "value": "73258"
+    "value": 73258
   },
   {
     "date": "2020-02-17",
     "type": "recovered",
-    "value": "12583"
+    "value": 12583
   },
   {
     "date": "2020-02-17",
     "type": "deaths",
-    "value": "1868"
-  },
-  {
-    "date": "2020-02-17",
-    "type": "increase_rate",
-    "value": "2.855778950915422"
+    "value": 1868
   },
   {
     "date": "2020-02-18",
     "type": "confirmed",
-    "value": "75136"
+    "value": 75136
   },
   {
     "date": "2020-02-18",
     "type": "recovered",
-    "value": "14352"
+    "value": 14352
   },
   {
     "date": "2020-02-18",
     "type": "deaths",
-    "value": "2007"
-  },
-  {
-    "date": "2020-02-18",
-    "type": "increase_rate",
-    "value": "2.5635425482541154"
+    "value": 2007
   },
   {
     "date": "2020-02-19",
     "type": "confirmed",
-    "value": "75639"
+    "value": 75639
   },
   {
     "date": "2020-02-19",
     "type": "recovered",
-    "value": "16121"
+    "value": 16121
   },
   {
     "date": "2020-02-19",
     "type": "deaths",
-    "value": "2122"
-  },
-  {
-    "date": "2020-02-19",
-    "type": "increase_rate",
-    "value": "0.6694527257240205"
+    "value": 2122
   },
   {
     "date": "2020-02-20",
     "type": "confirmed",
-    "value": "76197"
+    "value": 76197
   },
   {
     "date": "2020-02-20",
     "type": "recovered",
-    "value": "18177"
+    "value": 18177
   },
   {
     "date": "2020-02-20",
     "type": "deaths",
-    "value": "2247"
-  },
-  {
-    "date": "2020-02-20",
-    "type": "increase_rate",
-    "value": "0.737714671003054"
+    "value": 2247
   },
   {
     "date": "2020-02-21",
     "type": "confirmed",
-    "value": "76819"
+    "value": 76819
   },
   {
     "date": "2020-02-21",
     "type": "recovered",
-    "value": "18890"
+    "value": 18890
   },
   {
     "date": "2020-02-21",
     "type": "deaths",
-    "value": "2251"
-  },
-  {
-    "date": "2020-02-21",
-    "type": "increase_rate",
-    "value": "0.8163051038754806"
+    "value": 2251
   },
   {
     "date": "2020-02-22",
     "type": "confirmed",
-    "value": "78572"
+    "value": 78572
   },
   {
     "date": "2020-02-22",
     "type": "recovered",
-    "value": "22886"
+    "value": 22886
   },
   {
     "date": "2020-02-22",
     "type": "deaths",
-    "value": "2458"
-  },
-  {
-    "date": "2020-02-22",
-    "type": "increase_rate",
-    "value": "2.281987529126909"
+    "value": 2458
   },
   {
     "date": "2020-02-23",
     "type": "confirmed",
-    "value": "78958"
+    "value": 78958
   },
   {
     "date": "2020-02-23",
     "type": "recovered",
-    "value": "23394"
+    "value": 23394
   },
   {
     "date": "2020-02-23",
     "type": "deaths",
-    "value": "2469"
-  },
-  {
-    "date": "2020-02-23",
-    "type": "increase_rate",
-    "value": "0.49126915440614977"
+    "value": 2469
   },
   {
     "date": "2020-02-24",
     "type": "confirmed",
-    "value": "79561"
+    "value": 79561
   },
   {
     "date": "2020-02-24",
     "type": "recovered",
-    "value": "25227"
+    "value": 25227
   },
   {
     "date": "2020-02-24",
     "type": "deaths",
-    "value": "2629"
-  },
-  {
-    "date": "2020-02-24",
-    "type": "increase_rate",
-    "value": "0.7636971554497327"
+    "value": 2629
   },
   {
     "date": "2020-02-25",
     "type": "confirmed",
-    "value": "80406"
+    "value": 80406
   },
   {
     "date": "2020-02-25",
     "type": "recovered",
-    "value": "27905"
+    "value": 27905
   },
   {
     "date": "2020-02-25",
     "type": "deaths",
-    "value": "2708"
-  },
-  {
-    "date": "2020-02-25",
-    "type": "increase_rate",
-    "value": "1.062078153869358"
+    "value": 2708
   },
   {
     "date": "2020-02-26",
     "type": "confirmed",
-    "value": "81388"
+    "value": 81388
   },
   {
     "date": "2020-02-26",
     "type": "recovered",
-    "value": "30384"
+    "value": 30384
   },
   {
     "date": "2020-02-26",
     "type": "deaths",
-    "value": "2770"
-  },
-  {
-    "date": "2020-02-26",
-    "type": "increase_rate",
-    "value": "1.221301892893565"
+    "value": 2770
   },
   {
     "date": "2020-02-27",
     "type": "confirmed",
-    "value": "82746"
+    "value": 82746
   },
   {
     "date": "2020-02-27",
     "type": "recovered",
-    "value": "33277"
+    "value": 33277
   },
   {
     "date": "2020-02-27",
     "type": "deaths",
-    "value": "2814"
-  },
-  {
-    "date": "2020-02-27",
-    "type": "increase_rate",
-    "value": "1.6685506462869217"
+    "value": 2814
   },
   {
     "date": "2020-02-28",
     "type": "confirmed",
-    "value": "84112"
+    "value": 84112
   },
   {
     "date": "2020-02-28",
     "type": "recovered",
-    "value": "36711"
+    "value": 36711
   },
   {
     "date": "2020-02-28",
     "type": "deaths",
-    "value": "2872"
-  },
-  {
-    "date": "2020-02-28",
-    "type": "increase_rate",
-    "value": "1.6508350856839"
+    "value": 2872
   },
   {
     "date": "2020-02-29",
     "type": "confirmed",
-    "value": "86011"
+    "value": 86011
   },
   {
     "date": "2020-02-29",
     "type": "recovered",
-    "value": "39782"
+    "value": 39782
   },
   {
     "date": "2020-02-29",
     "type": "deaths",
-    "value": "2941"
-  },
-  {
-    "date": "2020-02-29",
-    "type": "increase_rate",
-    "value": "2.2577040136960247"
+    "value": 2941
   },
   {
     "date": "2020-03-01",
     "type": "confirmed",
-    "value": "88369"
+    "value": 88369
   },
   {
     "date": "2020-03-01",
     "type": "recovered",
-    "value": "42716"
+    "value": 42716
   },
   {
     "date": "2020-03-01",
     "type": "deaths",
-    "value": "2996"
-  },
-  {
-    "date": "2020-03-01",
-    "type": "increase_rate",
-    "value": "2.741509806885166"
+    "value": 2996
   },
   {
     "date": "2020-03-02",
     "type": "confirmed",
-    "value": "90306"
+    "value": 90306
   },
   {
     "date": "2020-03-02",
     "type": "recovered",
-    "value": "45602"
+    "value": 45602
   },
   {
     "date": "2020-03-02",
     "type": "deaths",
-    "value": "3085"
-  },
-  {
-    "date": "2020-03-02",
-    "type": "increase_rate",
-    "value": "2.1919451391325016"
+    "value": 3085
   },
   {
     "date": "2020-03-03",
     "type": "confirmed",
-    "value": "92840"
+    "value": 92840
   },
   {
     "date": "2020-03-03",
     "type": "recovered",
-    "value": "48228"
+    "value": 48228
   },
   {
     "date": "2020-03-03",
     "type": "deaths",
-    "value": "3160"
-  },
-  {
-    "date": "2020-03-03",
-    "type": "increase_rate",
-    "value": "2.806015104201271"
+    "value": 3160
   },
   {
     "date": "2020-03-04",
     "type": "confirmed",
-    "value": "95120"
+    "value": 95120
   },
   {
     "date": "2020-03-04",
     "type": "recovered",
-    "value": "51170"
+    "value": 51170
   },
   {
     "date": "2020-03-04",
     "type": "deaths",
-    "value": "3254"
-  },
-  {
-    "date": "2020-03-04",
-    "type": "increase_rate",
-    "value": "2.455838000861698"
+    "value": 3254
   },
   {
     "date": "2020-03-05",
     "type": "confirmed",
-    "value": "97886"
+    "value": 97886
   },
   {
     "date": "2020-03-05",
     "type": "recovered",
-    "value": "53796"
+    "value": 53796
   },
   {
     "date": "2020-03-05",
     "type": "deaths",
-    "value": "3348"
-  },
-  {
-    "date": "2020-03-05",
-    "type": "increase_rate",
-    "value": "2.907905803195963"
+    "value": 3348
   },
   {
     "date": "2020-03-06",
     "type": "confirmed",
-    "value": "101801"
+    "value": 101801
   },
   {
     "date": "2020-03-06",
     "type": "recovered",
-    "value": "55865"
+    "value": 55865
   },
   {
     "date": "2020-03-06",
     "type": "deaths",
-    "value": "3460"
-  },
-  {
-    "date": "2020-03-06",
-    "type": "increase_rate",
-    "value": "3.9995504975175207"
+    "value": 3460
   },
   {
     "date": "2020-03-07",
     "type": "confirmed",
-    "value": "105847"
+    "value": 105847
   },
   {
     "date": "2020-03-07",
     "type": "recovered",
-    "value": "58358"
+    "value": 58358
   },
   {
     "date": "2020-03-07",
     "type": "deaths",
-    "value": "3558"
-  },
-  {
-    "date": "2020-03-07",
-    "type": "increase_rate",
-    "value": "3.974420683490339"
+    "value": 3558
   },
   {
     "date": "2020-03-08",
     "type": "confirmed",
-    "value": "109821"
+    "value": 109821
   },
   {
     "date": "2020-03-08",
     "type": "recovered",
-    "value": "60694"
+    "value": 60694
   },
   {
     "date": "2020-03-08",
     "type": "deaths",
-    "value": "3802"
-  },
-  {
-    "date": "2020-03-08",
-    "type": "increase_rate",
-    "value": "3.754475799975436"
+    "value": 3802
   },
   {
     "date": "2020-03-09",
     "type": "confirmed",
-    "value": "113590"
+    "value": 113590
   },
   {
     "date": "2020-03-09",
     "type": "recovered",
-    "value": "62494"
+    "value": 62494
   },
   {
     "date": "2020-03-09",
     "type": "deaths",
-    "value": "3988"
-  },
-  {
-    "date": "2020-03-09",
-    "type": "increase_rate",
-    "value": "3.4319483523187735"
+    "value": 3988
   },
   {
     "date": "2020-03-10",
     "type": "confirmed",
-    "value": "118620"
+    "value": 118620
   },
   {
     "date": "2020-03-10",
     "type": "recovered",
-    "value": "64404"
+    "value": 64404
   },
   {
     "date": "2020-03-10",
     "type": "deaths",
-    "value": "4262"
-  },
-  {
-    "date": "2020-03-10",
-    "type": "increase_rate",
-    "value": "4.428206708337001"
+    "value": 4262
   },
   {
     "date": "2020-03-11",
     "type": "confirmed",
-    "value": "125875"
+    "value": 125875
   },
   {
     "date": "2020-03-11",
     "type": "recovered",
-    "value": "67003"
+    "value": 67003
   },
   {
     "date": "2020-03-11",
     "type": "deaths",
-    "value": "4615"
-  },
-  {
-    "date": "2020-03-11",
-    "type": "increase_rate",
-    "value": "6.116169280053954"
+    "value": 4615
   },
   {
     "date": "2020-03-12",
     "type": "confirmed",
-    "value": "128352"
+    "value": 128352
   },
   {
     "date": "2020-03-12",
     "type": "recovered",
-    "value": "68324"
+    "value": 68324
   },
   {
     "date": "2020-03-12",
     "type": "deaths",
-    "value": "4720"
-  },
-  {
-    "date": "2020-03-12",
-    "type": "increase_rate",
-    "value": "1.9678252234359483"
+    "value": 4720
   },
   {
     "date": "2020-03-13",
     "type": "confirmed",
-    "value": "145205"
+    "value": 145205
   },
   {
     "date": "2020-03-13",
     "type": "recovered",
-    "value": "70251"
+    "value": 70251
   },
   {
     "date": "2020-03-13",
     "type": "deaths",
-    "value": "5404"
-  },
-  {
-    "date": "2020-03-13",
-    "type": "increase_rate",
-    "value": "13.1302979306906"
+    "value": 5404
   },
   {
     "date": "2020-03-14",
     "type": "confirmed",
-    "value": "156101"
+    "value": 156101
   },
   {
     "date": "2020-03-14",
     "type": "recovered",
-    "value": "72624"
+    "value": 72624
   },
   {
     "date": "2020-03-14",
     "type": "deaths",
-    "value": "5819"
-  },
-  {
-    "date": "2020-03-14",
-    "type": "increase_rate",
-    "value": "7.5038738335456765"
+    "value": 5819
   },
   {
     "date": "2020-03-15",
     "type": "confirmed",
-    "value": "167454"
+    "value": 167454
   },
   {
     "date": "2020-03-15",
     "type": "recovered",
-    "value": "76034"
+    "value": 76034
   },
   {
     "date": "2020-03-15",
     "type": "deaths",
-    "value": "6440"
-  },
-  {
-    "date": "2020-03-15",
-    "type": "increase_rate",
-    "value": "7.272855394904582"
+    "value": 6440
   },
   {
     "date": "2020-03-16",
     "type": "confirmed",
-    "value": "181574"
+    "value": 181574
   },
   {
     "date": "2020-03-16",
     "type": "recovered",
-    "value": "78088"
+    "value": 78088
   },
   {
     "date": "2020-03-16",
     "type": "deaths",
-    "value": "7126"
-  },
-  {
-    "date": "2020-03-16",
-    "type": "increase_rate",
-    "value": "8.432166445710463"
+    "value": 7126
   },
   {
     "date": "2020-03-17",
     "type": "confirmed",
-    "value": "197102"
+    "value": 197102
   },
   {
     "date": "2020-03-17",
     "type": "recovered",
-    "value": "80840"
+    "value": 80840
   },
   {
     "date": "2020-03-17",
     "type": "deaths",
-    "value": "7905"
-  },
-  {
-    "date": "2020-03-17",
-    "type": "increase_rate",
-    "value": "8.551885181799156"
+    "value": 7905
   },
   {
     "date": "2020-03-18",
     "type": "confirmed",
-    "value": "214821"
+    "value": 214821
   },
   {
     "date": "2020-03-18",
     "type": "recovered",
-    "value": "83312"
+    "value": 83312
   },
   {
     "date": "2020-03-18",
     "type": "deaths",
-    "value": "8733"
-  },
-  {
-    "date": "2020-03-18",
-    "type": "increase_rate",
-    "value": "8.989761646254223"
+    "value": 8733
   },
   {
     "date": "2020-03-19",
     "type": "confirmed",
-    "value": "242500"
+    "value": 242570
   },
   {
     "date": "2020-03-19",
     "type": "recovered",
-    "value": "84975"
+    "value": 84975
   },
   {
     "date": "2020-03-19",
     "type": "deaths",
-    "value": "9867"
-  },
-  {
-    "date": "2020-03-19",
-    "type": "increase_rate",
-    "value": "12.884680734192653"
+    "value": 9867
   },
   {
     "date": "2020-03-20",
     "type": "confirmed",
-    "value": "272035"
+    "value": 272208
   },
   {
     "date": "2020-03-20",
     "type": "recovered",
-    "value": "87420"
+    "value": 87420
   },
   {
     "date": "2020-03-20",
     "type": "deaths",
-    "value": "11299"
-  },
-  {
-    "date": "2020-03-20",
-    "type": "increase_rate",
-    "value": "12.179381443298968"
+    "value": 11299
   },
   {
     "date": "2020-03-21",
     "type": "confirmed",
-    "value": "304396"
+    "value": 304507
   },
   {
     "date": "2020-03-21",
     "type": "recovered",
-    "value": "91692"
+    "value": 91692
   },
   {
     "date": "2020-03-21",
     "type": "deaths",
-    "value": "12973"
-  },
-  {
-    "date": "2020-03-21",
-    "type": "increase_rate",
-    "value": "11.895895748708805"
+    "value": 12973
   },
   {
     "date": "2020-03-22",
     "type": "confirmed",
-    "value": "336953"
+    "value": 336953
   },
   {
     "date": "2020-03-22",
     "type": "recovered",
-    "value": "97899"
+    "value": 97899
   },
   {
     "date": "2020-03-22",
     "type": "deaths",
-    "value": "14651"
-  },
-  {
-    "date": "2020-03-22",
-    "type": "increase_rate",
-    "value": "10.695607038200238"
+    "value": 14651
   },
   {
     "date": "2020-03-23",
     "type": "confirmed",
-    "value": "378235"
+    "value": 378235
   },
   {
     "date": "2020-03-23",
     "type": "recovered",
-    "value": "98351"
+    "value": 98351
   },
   {
     "date": "2020-03-23",
     "type": "deaths",
-    "value": "16505"
-  },
-  {
-    "date": "2020-03-23",
-    "type": "increase_rate",
-    "value": "12.251560306630301"
+    "value": 16505
   },
   {
     "date": "2020-03-24",
     "type": "confirmed",
-    "value": "418045"
+    "value": 418045
   },
   {
     "date": "2020-03-24",
     "type": "recovered",
-    "value": "108000"
+    "value": 108000
   },
   {
     "date": "2020-03-24",
     "type": "deaths",
-    "value": "18625"
-  },
-  {
-    "date": "2020-03-24",
-    "type": "increase_rate",
-    "value": "10.52520258569408"
+    "value": 18625
   },
   {
     "date": "2020-03-25",
     "type": "confirmed",
-    "value": "467653"
+    "value": 467653
   },
   {
     "date": "2020-03-25",
     "type": "recovered",
-    "value": "113787"
+    "value": 113787
   },
   {
     "date": "2020-03-25",
     "type": "deaths",
-    "value": "21181"
-  },
-  {
-    "date": "2020-03-25",
-    "type": "increase_rate",
-    "value": "11.866665071942016"
+    "value": 21181
   },
   {
     "date": "2020-03-26",
     "type": "confirmed",
-    "value": "529591"
+    "value": 529591
   },
   {
     "date": "2020-03-26",
     "type": "recovered",
-    "value": "122150"
+    "value": 122150
   },
   {
     "date": "2020-03-26",
     "type": "deaths",
-    "value": "23970"
-  },
-  {
-    "date": "2020-03-26",
-    "type": "increase_rate",
-    "value": "13.244435510945083"
+    "value": 23970
   },
   {
     "date": "2020-03-27",
     "type": "confirmed",
-    "value": "593291"
+    "value": 593291
   },
   {
     "date": "2020-03-27",
     "type": "recovered",
-    "value": "130915"
+    "value": 130915
   },
   {
     "date": "2020-03-27",
     "type": "deaths",
-    "value": "27198"
-  },
-  {
-    "date": "2020-03-27",
-    "type": "increase_rate",
-    "value": "12.028150025208133"
+    "value": 27198
   },
   {
     "date": "2020-03-28",
     "type": "confirmed",
-    "value": "660706"
+    "value": 660693
   },
   {
     "date": "2020-03-28",
     "type": "recovered",
-    "value": "139415"
+    "value": 139415
   },
   {
     "date": "2020-03-28",
     "type": "deaths",
-    "value": "30652"
-  },
-  {
-    "date": "2020-03-28",
-    "type": "increase_rate",
-    "value": "11.36288937469134"
+    "value": 30652
   },
   {
     "date": "2020-03-29",
     "type": "confirmed",
-    "value": "720117"
+    "value": 720140
   },
   {
     "date": "2020-03-29",
     "type": "recovered",
-    "value": "149082"
+    "value": 149082
   },
   {
     "date": "2020-03-29",
     "type": "deaths",
-    "value": "33925"
-  },
-  {
-    "date": "2020-03-29",
-    "type": "increase_rate",
-    "value": "8.99204790027637"
+    "value": 33925
   },
   {
     "date": "2020-03-30",
     "type": "confirmed",
-    "value": "782365"
+    "value": 782389
   },
   {
     "date": "2020-03-30",
     "type": "recovered",
-    "value": "164566"
+    "value": 164566
   },
   {
     "date": "2020-03-30",
     "type": "deaths",
-    "value": "37582"
-  },
-  {
-    "date": "2020-03-30",
-    "type": "increase_rate",
-    "value": "8.644150881037387"
+    "value": 37582
   },
   {
     "date": "2020-03-31",
     "type": "confirmed",
-    "value": "857487"
+    "value": 857487
   },
   {
     "date": "2020-03-31",
     "type": "recovered",
-    "value": "178034"
+    "value": 178034
   },
   {
     "date": "2020-03-31",
     "type": "deaths",
-    "value": "42107"
-  },
-  {
-    "date": "2020-03-31",
-    "type": "increase_rate",
-    "value": "9.601912150978125"
+    "value": 42107
   },
   {
     "date": "2020-04-01",
     "type": "confirmed",
-    "value": "932605"
+    "value": 932605
   },
   {
     "date": "2020-04-01",
     "type": "recovered",
-    "value": "193177"
+    "value": 193177
   },
   {
     "date": "2020-04-01",
     "type": "deaths",
-    "value": "46809"
-  },
-  {
-    "date": "2020-04-01",
-    "type": "increase_rate",
-    "value": "8.760249426521918"
+    "value": 46809
   },
   {
     "date": "2020-04-02",
     "type": "confirmed",
-    "value": "1013157"
+    "value": 1013466
   },
   {
     "date": "2020-04-02",
     "type": "recovered",
-    "value": "210263"
+    "value": 210263
   },
   {
     "date": "2020-04-02",
     "type": "deaths",
-    "value": "52983"
-  },
-  {
-    "date": "2020-04-02",
-    "type": "increase_rate",
-    "value": "8.63731161638636"
+    "value": 52983
   },
   {
     "date": "2020-04-03",
     "type": "confirmed",
-    "value": "1095917"
+    "value": 1095917
   },
   {
     "date": "2020-04-03",
     "type": "recovered",
-    "value": "225796"
+    "value": 225796
   },
   {
     "date": "2020-04-03",
     "type": "deaths",
-    "value": "58787"
-  },
-  {
-    "date": "2020-04-03",
-    "type": "increase_rate",
-    "value": "8.168526694283313"
+    "value": 58787
   },
   {
     "date": "2020-04-04",
     "type": "confirmed",
-    "value": "1197405"
+    "value": 1197408
   },
   {
     "date": "2020-04-04",
     "type": "recovered",
-    "value": "246152"
+    "value": 246152
   },
   {
     "date": "2020-04-04",
     "type": "deaths",
-    "value": "64606"
+    "value": 64606
   },
   {
-    "date": "2020-04-04",
-    "type": "increase_rate",
-    "value": "9.260555315776651"
+    "date": "2020-04-05",
+    "type": "confirmed",
+    "value": 1272115
+  },
+  {
+    "date": "2020-04-05",
+    "type": "recovered",
+    "value": 260012
+  },
+  {
+    "date": "2020-04-05",
+    "type": "deaths",
+    "value": 69374
+  },
+  {
+    "date": "2020-04-06",
+    "type": "confirmed",
+    "value": 1345101
+  },
+  {
+    "date": "2020-04-06",
+    "type": "recovered",
+    "value": 276515
+  },
+  {
+    "date": "2020-04-06",
+    "type": "deaths",
+    "value": 74565
+  },
+  {
+    "date": "2020-04-07",
+    "type": "confirmed",
+    "value": 1426096
+  },
+  {
+    "date": "2020-04-07",
+    "type": "recovered",
+    "value": 300054
+  },
+  {
+    "date": "2020-04-07",
+    "type": "deaths",
+    "value": 81865
+  },
+  {
+    "date": "2020-04-08",
+    "type": "confirmed",
+    "value": 1511104
+  },
+  {
+    "date": "2020-04-08",
+    "type": "recovered",
+    "value": 328661
+  },
+  {
+    "date": "2020-04-08",
+    "type": "deaths",
+    "value": 88338
+  },
+  {
+    "date": "2020-04-09",
+    "type": "confirmed",
+    "value": 1595350
+  },
+  {
+    "date": "2020-04-09",
+    "type": "recovered",
+    "value": 353975
+  },
+  {
+    "date": "2020-04-09",
+    "type": "deaths",
+    "value": 95455
+  },
+  {
+    "date": "2020-04-10",
+    "type": "confirmed",
+    "value": 1691719
+  },
+  {
+    "date": "2020-04-10",
+    "type": "recovered",
+    "value": 376096
+  },
+  {
+    "date": "2020-04-10",
+    "type": "deaths",
+    "value": 102525
+  },
+  {
+    "date": "2020-04-11",
+    "type": "confirmed",
+    "value": 1771514
+  },
+  {
+    "date": "2020-04-11",
+    "type": "recovered",
+    "value": 402110
+  },
+  {
+    "date": "2020-04-11",
+    "type": "deaths",
+    "value": 108503
+  },
+  {
+    "date": "2020-04-12",
+    "type": "confirmed",
+    "value": 1846679
+  },
+  {
+    "date": "2020-04-12",
+    "type": "recovered",
+    "value": 421722
+  },
+  {
+    "date": "2020-04-12",
+    "type": "deaths",
+    "value": 114091
   }
 ]
