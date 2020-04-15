@@ -1228,5 +1228,20 @@
     "date": "2020-04-12",
     "type": "deaths",
     "value": 114091
+  },
+  {
+    "date": "2020-04-13",
+    "type": "confirmed",
+    "value": 1917319
+  },
+  {
+    "date": "2020-04-13",
+    "type": "recovered",
+    "value": 448655
+  },
+  {
+    "date": "2020-04-13",
+    "type": "deaths",
+    "value": 119482
   }
 ]
