@@ -23,9 +23,25 @@ def format_data(list):
 def format_countries_data(list):
     output = []
     for item in list:
-        for key, val in item.items():
-            output.append({'date': str(item['Date']), 'country': item['Country'], 'confirmed': item['Confirmed'], 'recovered': item['Recovered'], 'deaths': item['Deaths']})
+        output.append({'date': str(item['Date']), 'country': item['Country'], 'confirmed': item['Confirmed'], 'recovered': item['Recovered'], 'deaths': item['Deaths']})
     return output   
+
+def lower_key_countries_data(input):
+    output_list = []
+    output = {}
+    for key, val in input.items():
+        if key == "Date":
+            output[key.lower()] = str(val)
+        else:
+            output[key.lower()] = val
+    output_list.append(output)
+    return output_list
+
+def format_key_countries_data(list):
+    new_data_list = []
+    for item in list:
+        new_data_list += lower_key_countries_data(item)
+    return new_data_list
 
 def file_path(filename):
     rootPath = Path(__file__).parents[1]
@@ -52,10 +68,20 @@ def main():
     # countries aggregated data
     resource_name = 'countries-aggregated_csv'
     countries_aggregated = get_resource(package, resource_name)
-    format_countries_aggregated = format_countries_data(countries_aggregated)
 
+    format_countries_aggregated = format_countries_data(countries_aggregated)
+    
     filename = 'countries-aggregated'
     write_json(file_path(filename), format_countries_aggregated)
+
+    # Key Countries
+    resource_name = 'key-countries-pivoted_csv'
+    key_countries = get_resource(package, resource_name)
+    
+    format_key_countries = format_key_countries_data(key_countries)
+
+    filename = 'key_countries'
+    write_json(file_path(filename), format_key_countries)
 
     # US confirmed
     # resource_name = 'us_confirmed_csv'
@@ -66,8 +92,7 @@ def main():
 
 
 
-    # Key Countries
-    # resource_name = 'key-countries-pivoted_csv'
+
 
 
     # print(package.resource_names)   # print list of all resources
